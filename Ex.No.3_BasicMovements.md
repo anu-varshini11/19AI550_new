@@ -1,4 +1,4 @@
-# Ex.No: 2  Basic movements in Unity 
+# Ex.No: 3  Basic movements in Unity 
 ### DATE: 05-03-2025                                                                            
 ### REGISTER NUMBER : 212223240010 
 ### AIM: 
